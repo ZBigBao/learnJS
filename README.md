@@ -1,2 +1,2 @@
 # learnJS
-some thing usefull when learning JavaScript 
+some thing usefull when learning JavaScript   
